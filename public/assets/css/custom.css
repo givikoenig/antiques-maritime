@@ -1,0 +1,28 @@
+/*------------------------------------------------------------------
+    ADD YOUR OWN STYLING HERE AVOID TO USE STYLE.CSS AND MAIN.CSS
+	
+	IT WILL BE HELPFUL FOR YOU IN FUTURE UPDATES
+-------------------------------------------------------------------*/
+
+.msgcaptcha {
+	margin-bottom: 17px!important;
+	padding-left: 94px;
+}
+.prod-data {
+	margin-bottom: 25px;
+}
+.tab-pane p{
+	font-size: 14px!important;
+}
+.a-active a:hover{
+	color: #af5875!important;
+}
+.search-td{
+	max-width: 370px;
+}
+#almessage{
+	position: absolute;
+	top: 200px;
+	
+}
+
